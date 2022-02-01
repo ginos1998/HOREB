@@ -608,7 +608,7 @@ banner
 .main-banner img{
   min-width: 100%;
   min-height: 100vh;
-  max-width: 100%;
+  max-width: 106%;
   max-height: 100vh;
   object-fit: cover;
   z-index: -1;
@@ -616,7 +616,7 @@ banner
 
 .video-overlay {
     position: absolute;
-    background-color: rgba(35,45,57,0.8);
+    /*background-color: rgba(35,45,57,0.8);*/
     top: 0;
     left: 0;
     bottom: 0px;
@@ -932,7 +932,7 @@ schedule
 
 #schedule table tr td {
   color: #fff;
-  font-size: 13px;
+  font-size: 15px;
   text-transform: capitalize;
   font-weight: 500;
   letter-spacing: 0.25px;
@@ -961,7 +961,7 @@ schedule
   cursor: pointer;
   position: relative;
   margin-right: 10px;
-  font-size: 15px;
+  font-size: 20px;
   font-weight: 500;
   color: #fff;
   text-transform: capitalize;
